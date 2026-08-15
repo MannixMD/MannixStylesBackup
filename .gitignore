@@ -1,3 +1,4 @@
-index.htm
-/test
-.htaccess
+#ignore all kind of files
+*.*
+#except zip files
+!*.zip
