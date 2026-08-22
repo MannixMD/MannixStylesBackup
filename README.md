@@ -172,3 +172,9 @@ This repository contains the following extensions:
 | Forum Portal | mundophpbbext |
 | Christmas & New Year | stokeext |
 | Very New Content | gtiext |
+| Consent Manager | phpbbext | 
+| Ajax LiteChat | stokeext | 
+| News Scroll | hifikabinext | 
+| Right Header Image | hifikabinext | 
+| Sticky Bar | hifikabinext | 
+| Sortable Categories | vinnyext | 
