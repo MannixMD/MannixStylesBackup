@@ -178,3 +178,9 @@ This repository contains the following extensions:
 | Right Header Image | hifikabinext | 
 | Sticky Bar | hifikabinext | 
 | Sortable Categories | vinnyext | 
+| Random Banner | hifikabinext | 
+| Right Random Image | hifikabinext | 
+| Topic & Profile Rating | stokeext | 
+| Countdown Prime | stokeext | 
+| Topic Statistics | stokeext | 
+| Emoji V2 | stokeext | 
