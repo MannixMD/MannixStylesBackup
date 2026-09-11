@@ -184,3 +184,5 @@ This repository contains the following extensions:
 | Countdown Prime | stokeext | 
 | Topic Statistics | stokeext | 
 | Emoji V2 | stokeext | 
+| Cosmos Banner | hifikabinext |
+| Rich Links | stokeext |
