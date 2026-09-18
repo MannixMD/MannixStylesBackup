@@ -186,3 +186,4 @@ This repository contains the following extensions:
 | Emoji V2 | stokeext | 
 | Cosmos Banner | hifikabinext |
 | Rich Links | stokeext |
+| Smart Subjects | vseext |
