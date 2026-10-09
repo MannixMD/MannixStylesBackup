@@ -187,3 +187,6 @@ This repository contains the following extensions:
 | Cosmos Banner | hifikabinext |
 | Rich Links | stokeext |
 | Smart Subjects | vseext |
+| Enhanced BBCode| caforum |
+| Quick reply BBCodes | caforum |
+| Advanced Error 404 Page | caforum |
