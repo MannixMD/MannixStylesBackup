@@ -190,3 +190,4 @@ This repository contains the following extensions:
 | Enhanced BBCode| caforum |
 | Quick reply BBCodes | caforum |
 | Advanced Error 404 Page | caforum |
+| Participate | dmzx |
