@@ -191,3 +191,7 @@ This repository contains the following extensions:
 | Quick reply BBCodes | caforum |
 | Advanced Error 404 Page | caforum |
 | Participate | dmzx |
+| Avatar hover | caforum |
+| Board Maintenance | stoker |
+| Partner Links | stoker |
+| Recent Posts | stoker |
