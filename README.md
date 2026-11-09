@@ -195,3 +195,4 @@ This repository contains the following extensions:
 | Board Maintenance | stoker |
 | Partner Links | stoker |
 | Recent Posts | stoker |
+| Guest pseudonyms | esp |
