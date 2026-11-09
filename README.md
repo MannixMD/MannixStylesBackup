@@ -190,9 +190,9 @@ This repository contains the following extensions:
 | Enhanced BBCode| caforum |
 | Quick reply BBCodes | caforum |
 | Advanced Error 404 Page | caforum |
-| Participate | dmzx |
+| Participate | dmzxext |
 | Avatar hover | caforum |
-| Board Maintenance | stoker |
-| Partner Links | stoker |
-| Recent Posts | stoker |
-| Guest pseudonyms | esp |
+| Board Maintenance | stokeext |
+| Partner Links | stokeext |
+| Recent Posts | stokeext |
+| Guest pseudonyms | espext |
